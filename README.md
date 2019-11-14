@@ -1,1 +1,1 @@
-[BBB1: Getting started](https://pvittali.bitbucket.io/bbb1)
+[Compagnion repo](https://github.com/vittali/vittali.ch-1-bbb-jtag)

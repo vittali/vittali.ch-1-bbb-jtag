@@ -1,1 +1,1 @@
-[Compagnion repo](https://github.com/vittali/vittali.ch-1-bbb-jtag)
+https://www.vittali.ch/1-bbb-jtag/
